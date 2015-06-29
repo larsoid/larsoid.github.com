@@ -5,4 +5,13 @@ tagline: In theory there is no difference between theory and practice. In practi
 ---
 {% include JB/setup %}
 
-A journey can start with a single step and fear may make the first step noise, so I choose to be brave - not because I must but because I wish it 
+mysqldump: Error: Binlogging on server not active
+
+Error: Binlogging on server not active
+Solution: 
+
+1) option "--master-data" in your mysqldump should be removed
+(Note: this will cause mysql to skip replication position)
+
+2) Edit you mysql server configuration (my.cnf) and add log-bin=mysql-bin
+(Note: restart MySQl Server after change) 
