@@ -14,4 +14,24 @@ Error: Binlogging on server not active
 <br>(Note: this will cause mysql to skip replication position)
 
 2) Edit you mysql server configuration (my.cnf) and add log-bin=mysql-bin
-<br>(Note: restart MySQl Server after change) 
+<br>(Note: restart MySQl Server after change)
+
+<hr>
+Piet Hein wrote this "short verse" that has been an inspiration to me when I 
+feeling that things are not happening fast enough:
+
+"
+T. T. T.
+
+Put up in a place
+where it's easy to see
+the cryptic admonishment
+T. T. T.
+
+When you feel how depressingly
+slowly you climb,
+it's well to remember that
+Things Take Time!
+"
+Thinking about writing a verse of my own with the title: "E.E.E" 
+Escaping Explicit Expectations...  
