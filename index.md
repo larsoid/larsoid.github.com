@@ -17,23 +17,23 @@ Error: Binlogging on server not active
 <br>(Note: restart MySQl Server after change)
 
 <hr>
-Piet Hein wrote this "short verse" that has been an inspiration to me when I 
-feeling that things are not happening fast enough:
+Piet Hein wrote this "short verse" that has been an inspiration to me when 
+feeling that things are ... not happening fast enough:
 
 "
-T. T. T.
-
+<h3>T. T. T.</h3>
+</br>
 Put up in a place
 where it's easy to see
 the cryptic admonishment
 T. T. T.
-<br>
+</br>
 When you feel how depressingly
 slowly you climb,
 it's well to remember that
-Things Take Time!
+<b>Things Take Time!</b>
 "
 <hr>
 <br>
 Thinking about writing a verse of my own with the title: "E.E.E" 
-Escaping Explicit Expectations...  
+<b>Escaping Explicit Expectations</b>  
