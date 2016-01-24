@@ -5,7 +5,6 @@ tagline: In theory there is no difference between theory and practice. In practi
 ---
 {% include JB/setup %}
 
-<hr>
 Piet Hein wrote this "grook" that has been an inspiration to me when 
 feeling that things are not happening fast enough:
 
@@ -23,10 +22,10 @@ it's well to remember that
 
 <hr>
 <br>
-<br>
 <b>Escaping Expectations</b>
 Persuing expectation most merly a figment - ghosts hauting, if one does not see the vail..
  
+<hr>
 
 <h3>mysqldump: Error: Binlogging on server not active</h3>
 
