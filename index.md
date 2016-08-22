@@ -27,14 +27,14 @@ Persuing expectation; most merly a figment - ghosts hauting, if one does not see
 
 <hr>
 <h3>Privacy</h3>
-<p>https://ricochet.im/
-</br>
+<p><b>https://ricochet.im</b>
+<br>
 Ricochet uses the Tor network to reach your contacts without relying on messaging servers. It creates a hidden service, which is used to rendezvous with your contacts without revealing your location or IP address.</p>
-<p>https://onionshare.org/
-</br>
+<p><b>https://onionshare.org</b>
+<br>
 OnionShare is an open source tool that lets you securely and anonymously share a file of any size.</p>
 <p>
-https://www.onioncat.org/
+<b>https://www.onioncat.org</b>
 </br>
 An Anonymous VPN-Adapter</p>
 
