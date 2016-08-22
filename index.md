@@ -23,8 +23,15 @@ it's well to remember that
 <hr>
 <br>
 <b>Escaping Expectations</b>
-Persuing expectation most merly a figment - ghosts hauting, if one does not see the vail..
- 
+Persuing expectation; most merly a figment - ghosts hauting, if one does not see the vail..
+
+<hr>
+Privacy
+https://ricochet.im/
+<p>Ricochet uses the Tor network to reach your contacts without relying on messaging servers. It creates a hidden service, which is used to rendezvous with your contacts without revealing your location or IP address.</p>
+https://onionshare.org/
+<p>OnionShare is an open source tool that lets you securely and anonymously share a file of any size.</p>
+
 <hr>
 
 <h3>mysqldump: Error: Binlogging on server not active</h3>
